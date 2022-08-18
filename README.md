@@ -1,1 +1,1 @@
-# Thhis is a PictureBed
+# This is a PictureBed
